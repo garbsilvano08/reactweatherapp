@@ -1,0 +1,9 @@
+.container {
+  max-width: 1080px;
+  margin: 100px auto;
+}
+
+.loader {
+  width: 500px;
+  margin: 40px auto 0 auto;
+}
